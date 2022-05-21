@@ -1,6 +1,8 @@
 # delivery_food
 frontend development training project
 
+Try here:
+https://pvlkryu.github.io/delivery_food/
 
 ## Outpoot examples <br>
 ### Main page:<br>
